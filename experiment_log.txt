@@ -1,0 +1,9 @@
+first just did python3 train.py, results not very good, ran on all images but had to reduce attention heads from 4 to 1 and batches from 8 to 6
+
+python3 train.py --use-depth 1 ?
+
+
+
+TODO:
+train with data augmentation
+train with classes
