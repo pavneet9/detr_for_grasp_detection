@@ -30,7 +30,8 @@ python train.py --epochs 50 --duplication_factor 10 --experiment 1
 
 The project uses a similar architecture as DETR. However changes where made to the project to include the major available datasets for grasp detection mainly the Cornell dataset for grasping and the jacquard Dataset. Another major change was how to find grasp boxes as well as their orientation. The loss was calculated based on IOU using hungarian matcher.
 
-
+![](./tensor([150]).png)
+![](./figures/img_3dbbox_000134.png)
 
 
 
